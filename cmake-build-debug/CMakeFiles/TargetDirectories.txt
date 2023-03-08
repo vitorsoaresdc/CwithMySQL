@@ -1,0 +1,3 @@
+/Users/vitorsoares/Desktop/CRUD_C/cmake-build-debug/CMakeFiles/CRUD_C.dir
+/Users/vitorsoares/Desktop/CRUD_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vitorsoares/Desktop/CRUD_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
